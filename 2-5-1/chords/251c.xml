@@ -1,0 +1,22 @@
+<snippets>
+
+<!--
+  Created by Frescobaldi 3.1.3.
+
+  Every snippet is represented by:
+    title:      title text
+    shortcuts:  list of shortcut elements, every shortcut is a key sequence
+    body:       the snippet text
+
+  The snippet id attribute can be the name of a builtin snippet or a random
+  name like 'n123456'. In the latter case, the title is used to determine
+  whether a snippet is new or updated.
+-->
+
+<snippet id="n522423">
+<title>II V I (C)</title>
+<shortcuts />
+<body>d2:m7 g:7.9- c1:maj7 </body>
+</snippet>
+
+</snippets>
