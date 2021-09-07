@@ -1,4 +1,4 @@
-#+TITLE: frescobaldi snippets
+#+TITLE: Frescobaldi Snippets
 #+AUTHOR: Niklas Bühler
 
 * About
