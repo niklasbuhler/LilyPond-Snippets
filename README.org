@@ -4,5 +4,4 @@
 * About
 This is supposed to be a template system for jazz composition and arranging. I try to cover all /standard/ chord progressions, voicings and bass figures to make it possible to have a great starting point very quick. This is _not_ intended to be a "chord pack" or something to help people who know nothing about music theory, rather it is a helper to build complex music more efficiently. You are obviously free to change up everything during composing (and to use the progressions in your own tracks) (:
 * How it works
-You can insert a chord progression for examble "blues in f" and then start tweaking from there.
 (more documentation wil follow)
